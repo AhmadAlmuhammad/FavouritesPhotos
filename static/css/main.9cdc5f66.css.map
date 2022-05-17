@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9cdc5f66.css","mappings":"AAAA,WACI,cAAe,CACf,UACJ","sources":["App.css"],"sourcesContent":[".favourite{\r\n    cursor: pointer;\r\n    right:10px;\r\n}\r\n"],"names":[],"sourceRoot":""}
